@@ -1,5 +1,4 @@
 # 🍽️ Foodlink – Donate Food & Essentials with Ease
-
 ## 📱 About the App
 
 **Foodlink** is an Android app designed to reduce food and essential item wastage by connecting **donors** (like restaurants, event organizers, individuals) with **receivers** (such as NGOs, orphanages, or anyone in need). Instead of throwing away surplus food, users can donate it through the app, enabling better resource utilization and supporting communities in need.
@@ -53,5 +52,3 @@
 ## 🤝 Contributing
 
 Feel free to open issues or pull requests to improve the project. All kinds of contributions are welcome!
-
----
