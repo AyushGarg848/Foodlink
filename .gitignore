@@ -1,0 +1,53 @@
+# Android Studio specific
+.idea/
+*.iml
+.gradle/
+/local.properties
+/.cxx/
+
+# Built application files
+/build/
+/app/build/
+/*/build/
+
+# NDK
+.externalNativeBuild/
+
+# Sign-in information
+*.jks
+*.keystore
+*.key
+
+# Gradle files
+**/build/
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Crashlytics and Firebase
+crashlytics-build.properties
+fabric.properties
+
+# Google Services (API keys)
+app/google-services.json
+
+# IntelliJ
+out/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Jetpack Compose (binary caches)
+.kotlinc/
+
+# Misc
+*.log
+*.orig
